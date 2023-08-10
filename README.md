@@ -1,4 +1,4 @@
-#Android Animation Catalog
+# Android Animation Catalog
 This repository contains an Android application that displays a catalog of animations. The application is built using Jetpack Compose and provides a variety of animations, including:
 
 - Transitions
